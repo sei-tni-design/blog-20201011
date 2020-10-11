@@ -24,7 +24,6 @@
 .main{
   background-color: #F5F5F6;
   height: 12700px;
-  text-align: center;
 }
 
 .main-wrapper{
@@ -32,6 +31,7 @@
   margin-top:40px;
   background-color:#FFFFFF;
   width:860px;
+  text-align: center;
 }
 
 .main-title{
